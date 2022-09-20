@@ -1,0 +1,15 @@
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/bin/Debug/net6.0/Task2
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/bin/Debug/net6.0/Task2.deps.json
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/bin/Debug/net6.0/Task2.dll
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/bin/Debug/net6.0/Task2.pdb
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/obj/Debug/net6.0/Task2.dll
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/obj/Debug/net6.0/refint/Task2.dll
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/obj/Debug/net6.0/Task2.pdb
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
+/home/kirill/RiderProjects/MTS_Digital_Tasks/Task2/obj/Debug/net6.0/ref/Task2.dll
